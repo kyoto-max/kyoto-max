@@ -26,3 +26,22 @@
   </a>
   
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kyoto-max/kyoto-max/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
