@@ -1,16 +1,28 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kyoto-max.kyotomax&left_color=red&right_color=green"/>
 
-<!--
-**kyoto-max/kyoto-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Anirudh+Goel+!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate coder from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+
+🔭 I’m currently working on **myself**
+
+🌱 I’m currently learning **Rust**
+
+</div>
+
+<div align="center"> 
+  <a href="mailto:pedro.sales.crackjee2k24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-595959?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+  <a href="https://linkedin.com/in/anirudh-goel-045a82310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+</div>
