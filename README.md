@@ -10,9 +10,8 @@
 
 <div align="center">
 
-🔭 I’m currently working on **myself**
 
-🌱 I’m currently learning **Rust**
+🌱 I’m currently learning **C++**
 
 </div>
 
@@ -32,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,github,git" />
 </div>
 
 <br/>
