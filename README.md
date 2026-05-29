@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kyoto-max.kyotomax&left_color=red&right_color=green"/>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Anirudh+Goel+!;" />
 </h1>
@@ -8,12 +6,12 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 
-🌱 I’m currently learning **C++**
+I’m currently learning ****
 
-</div>
+</div> -->
 
 <div align="center"> 
   <a href="mailto:pedro.sales.crackjee2k24@gmail.com">
@@ -37,10 +35,10 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kyoto-max/kyoto-max/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>
+</div> -->
